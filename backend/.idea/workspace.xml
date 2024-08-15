@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d9d683a-11ee-4e54-ba7b-3ee01e727e65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/backend/Service/Service_Class/BookServ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/backend/Service/Service_Class/BookServ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/book/backend/Service/Service_Class/PublicReviewServ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/book/backend/Service/Service_Class/PublicReviewServ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/pages/SellerHome.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/pages/SellerHome.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/pages/SignIn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/pages/SignIn.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/pages/Signup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/pages/Signup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/styles/bookDetails.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/styles/bookDetails.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/styles/bookList.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/styles/bookList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/styles/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/styles/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/styles/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/styles/sellerform.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/styles/sellerform.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/styles/signin.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/styles/signin.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kPEZaqsEy1N13r1SmABlR8pxrf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.backend [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/madhavs/Desktop/book-store/backend&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="MONGODB_URL" value="mongodb+srv://gowtham-cyber-max:GoWtHaM%404262472@book.iub25xr.mongodb.net/?retryWrites=true&amp;w=majority&amp;appName=book" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.book.backend.BackendApplication" />
+      <module name="backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d9d683a-11ee-4e54-ba7b-3ee01e727e65" name="Changes" comment="" />
+      <created>1723176867213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723176867213</updated>
+    </task>
+    <servers />
+  </component>
+</project>
